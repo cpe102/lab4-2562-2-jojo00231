@@ -9,7 +9,8 @@ double findDistance(double u, double a, double t)
 
 int main(){
 
- cout << findDistance(0,0.5,1) ;
-
+ cout << findDistance(0,0.5,1) << endl ;
+ cout << findDistance(1.5,-1,2) << endl ;
+ cout << findDistance(5,4,3) << endl ;
   return 0;
 }
