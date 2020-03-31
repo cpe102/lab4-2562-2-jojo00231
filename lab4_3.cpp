@@ -19,7 +19,7 @@ int main()
 {
     cout << findDivisor(10) << endl ;
 	cout << findDivisor(97) << endl ;
-	cout << findDivisor(221) << endl ;
+	cout << findDivisor(13) << endl ;
 
     return 0 ;
 }
